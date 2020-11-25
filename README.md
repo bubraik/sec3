@@ -7,5 +7,4 @@
     2- asd 2
     3. asw 3
        - **This is bold text**
-       
-       **This is bold text**
+**This is bold text**
